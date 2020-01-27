@@ -1,0 +1,11 @@
+C:\Users\abhis\source\repos\Inventory_sys\Inventory_sys\bin\Debug\netcoreapp3.1\Inventory_sys.exe
+C:\Users\abhis\source\repos\Inventory_sys\Inventory_sys\bin\Debug\netcoreapp3.1\Inventory_sys.deps.json
+C:\Users\abhis\source\repos\Inventory_sys\Inventory_sys\bin\Debug\netcoreapp3.1\Inventory_sys.runtimeconfig.json
+C:\Users\abhis\source\repos\Inventory_sys\Inventory_sys\bin\Debug\netcoreapp3.1\Inventory_sys.runtimeconfig.dev.json
+C:\Users\abhis\source\repos\Inventory_sys\Inventory_sys\bin\Debug\netcoreapp3.1\Inventory_sys.dll
+C:\Users\abhis\source\repos\Inventory_sys\Inventory_sys\bin\Debug\netcoreapp3.1\Inventory_sys.pdb
+C:\Users\abhis\source\repos\Inventory_sys\Inventory_sys\obj\Debug\netcoreapp3.1\Inventory_sys.csprojAssemblyReference.cache
+C:\Users\abhis\source\repos\Inventory_sys\Inventory_sys\obj\Debug\netcoreapp3.1\Inventory_sys.AssemblyInfoInputs.cache
+C:\Users\abhis\source\repos\Inventory_sys\Inventory_sys\obj\Debug\netcoreapp3.1\Inventory_sys.AssemblyInfo.cs
+C:\Users\abhis\source\repos\Inventory_sys\Inventory_sys\obj\Debug\netcoreapp3.1\Inventory_sys.dll
+C:\Users\abhis\source\repos\Inventory_sys\Inventory_sys\obj\Debug\netcoreapp3.1\Inventory_sys.pdb
